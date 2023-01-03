@@ -1,0 +1,1745 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.791302, 1.305815]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "The Metropolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.787771, 1.305575]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Rochester Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.843916, 1.317641]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "United Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.821893, 1.255918]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 720,
+                "Store": "Universal Studios Singapore "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.773108, 1.305457]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 600,
+                "Store": "NUS University Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.822912, 1.264179]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "VivoCity"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.826521, 1.292911]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Valley Point "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.833284, 1.303752]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Wisma Atria "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.849852, 1.301923]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Wilkie Edge "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.742446, 1.333746]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Westgate "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.786979, 1.436857]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Woodlands Xchange (Woodlands MRT) "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.830992, 1.304905]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Wheelock Place "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.749169, 1.350008]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "West Mall "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.765572, 1.303305]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "West Coast Plaza "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.949562, 1.372344]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "White Sands "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.820064, 1.264792]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Harbourfront Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.901725, 1.406497]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Waterway Point "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.846854, 1.326891]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Zhongshan Mall "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.990005, 1.360207]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Jewel Changi Airport Kiosk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.990252, 1.360062]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Jewel Changi Airport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.722033, 1.343648]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Jurong Lake Gardens (Near Jurong Lake Floating Wetlands)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.7465, 1.396888]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "YewTee Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.768109, 1.357687]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "The Rail Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.851595, 1.285528]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "6 Battery Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.853559, 1.293616]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Raffles City (Level 2)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.850057, 1.297768]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Lazada One"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.834709, 1.302452]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Takashimaya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.82025, 1.307506]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Gleneagles Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.850515, 1.283542]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Republic Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.790186, 1.404122]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 720,
+                "Store": "River Wonders"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.819951, 1.256316]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 720,
+                "Store": "Resorts World Sentosa "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.817765, 1.255169]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 720,
+                "Store": "Sentosa (Imbiah Lookout)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.855887, 1.294597]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "South Beach Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.777103, 1.309736]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 600,
+                "Store": "Singapore Polytechnic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.835492, 1.278161]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "SingHealth Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.775759, 1.329194]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "SIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.852076, 1.284304]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Singapore Land Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.87592, 1.391331]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Seletar Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.849482, 1.297717]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 600,
+                "Store": "Singapore Management University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.856923, 1.293551]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Suntec City West Wing (Level 2)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.782716, 1.2876]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Science Park II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.859452, 1.295553]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Suntec City Tower 3 (Level 2)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.857851, 1.294883]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Suntec City Tower 5 (Level 1)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.81965, 1.44813]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Sun Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.827311, 1.28623]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Tiong Bahru Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.771231, 1.298242]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 600,
+                "Store": "NUS Techno Edge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.823416, 1.304959]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Tanglin Mall "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.851179, 1.304976]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Tekka Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.941041, 1.353983]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Our Tampines Hub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.830613, 1.355165]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Thomson Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.845018, 1.276724]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Guoco Tower (Formerly Tanjong Pagar Centre) "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.848864, 1.3326]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Toa Payoh HDB Hub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.944352, 1.352038]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Tampines Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.935768, 1.348923]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Tampines West Community Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.842846, 1.292957]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "UE Square "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.800231, 1.274459]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Mapletree Business City (Mapletree @ 20)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.799603, 1.275837]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Mapletree Business City 2 (Mapletree @ 40)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.859648, 1.29375]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Millenia Walk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.844102, 1.322026]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Mt Elizabeth Novena Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.679793, 1.347057]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 600,
+                "Store": "NTU North Spine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.835633, 1.42948]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Northpoint City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.844025, 1.319767]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Novena Square (Office Tower)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.744171, 1.334791]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Ng Teng Fong General Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.784751, 1.294109]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "One@KentRidge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.780052, 1.296029]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 600,
+                "Store": "NUS Wet Science Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.872238, 1.350645]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "NEX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.913075, 1.402391]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Oasis Terraces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.849841, 1.285208]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "OCBC Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.853836, 1.2858]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 720,
+                "Store": "One Fullerton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.836799, 1.301358]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Orchard Cineleisure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.840264, 1.301362]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Orchard Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.839038, 1.3006]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Orchard Gateway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.835623, 1.303497]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Paragon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.906695, 1.299121]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Parkland Green"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.892976, 1.31747]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Paya Lebar Quarter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.868562, 1.331172]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "The Poiz Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.83236, 1.306456]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Pacific Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.845093, 1.299974]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Plaza Singapura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.905108, 1.302049]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Parkway Parade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.965419, 1.333662]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Plaza 8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.847967, 1.286044]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "One George"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.894442, 1.31519]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Kinex (Formerly OneKM Shopping Mall)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.845768, 1.27547]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "20 Anson Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.838273, 1.300961]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "313@Somerset"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.844992, 1.273256]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "78 Shenton Way"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.805263, 1.288807]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Anchorpoint"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.84336, 1.274476]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "100 AM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.848174, 1.369548]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Ang Mo Kio Hub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.863907, 1.309882]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Aperia Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.850395, 1.27818]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Asia Square Tower 2 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.93251, 1.324745]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 640,
+                "Store": "Bedok Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.929829, 1.324942]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Bedok Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.855958, 1.299472]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Bugis Junction"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.854236, 1.299883]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Bugis+"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.792114, 1.303223]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Biopolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.764201, 1.380036]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Bukit Panjang Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.850705, 1.349709]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Bishan Community Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.810301, 1.323725]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Coronation Shopping Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.83055, 1.443338]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Canberra Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.846904, 1.288888]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "The Central"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.962746, 1.334113]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Changi City Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.94938, 1.341107]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Changi General Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.764552, 1.315353]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Clementi Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.8558, 1.292029]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "CityLink Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.894922, 1.392412]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Compass One"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.790119, 1.289571]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Cintech IV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.839745, 1.301838]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Centrepoint"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.862611, 1.301125]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Concourse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.856298, 1.311322]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "City Square Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.847413, 1.277809]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Capital Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.84461, 1.284867]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Chinatown Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.849628, 1.281551]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "City House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.78672, 1.435108]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Woodlands Civic Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.847391, 1.299297]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "The Cathay "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.828795, 1.307102]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Delfi Orchard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.95492, 1.37741]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Downtown East"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.849737, 1.290176]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "25 North Bridge Road (Formerly EFG Building)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.953172, 1.342523]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "East Point Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.848542, 1.283438]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Far East Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.787578, 1.298767]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Fusionopolis (Connexis)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.865426, 1.282404]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 720,
+                "Store": "Gardens by the Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.831965, 1.293549]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Great World City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.858549, 1.298634]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Gateway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.87992, 1.375416]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Hougang 1 (Street 91)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.851063, 1.281312]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Hong Leong Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.763005, 1.378312]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Hillion Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.764525, 1.363108]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "HillV2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.893815, 1.372563]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Hougang Mall (Near Hougang MRT station)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.749783, 1.366018]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "HomeTeamNS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.795577, 1.311442]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 640,
+                "Store": "Holland Village"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.831601, 1.304092]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "ION Orchard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.786072, 1.317533]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Jelita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.925496, 1.312967]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Jalan Jamal (Siglap)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.743016, 1.333273]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "JEM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.705611, 1.338964]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Jurong Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.744715, 1.384252]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Keat Hong Community Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.876743, 1.302718]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Kallang Leisure Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.873344, 1.302586]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Kallang Wave Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.800637, 1.439881]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Kampung Admiralty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.904373, 1.305194]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Katong Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.830891, 1.305217]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Liat Towers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.857988, 1.291017]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Marina Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.852197, 1.277148]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Marina One"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.854009, 1.280679]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 660,
+                "Store": "Marina Bay Link Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.860022, 1.285819]
+            },
+            "properties": {
+                "Coffee": "Caff\u00e8 Latte",
+                "Price": 720,
+                "Store": "Marina Bay Sands"
+            }
+        }
+    ]
+}

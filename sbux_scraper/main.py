@@ -56,7 +56,7 @@ def main():
             continue
 
     feature_collection = FeatureCollection(feature_list)
-    with open("data/sbux.json", "w") as f:
+    with open("data/sbux.geojson", "w") as f:
         f.write(dumps(feature_collection))
 
 

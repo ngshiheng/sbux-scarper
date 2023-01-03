@@ -1,0 +1,22 @@
+[tool.poetry]
+authors = ["Jerry Ng <ngshiheng@gmail.com>"]
+description = ""
+name = "sbux-scraper"
+packages = [{include = "sbux_scraper"}]
+readme = "README.md"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+sbux = "^0.3.0"
+geojson = "^2.5.0"
+
+[tool.poetry.group.dev.dependencies]
+autopep8 = "^2.0.1"
+flake8 = "^6.0.0"
+isort = "^5.11.4"
+pre-commit = "^2.21.0"
+
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core"]

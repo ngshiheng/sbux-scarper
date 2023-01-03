@@ -1,3 +1,6 @@
+import random
+import time
+
 from geojson import Feature, FeatureCollection, Point, dumps
 from sbux import Starbucks
 from sbux.models import Item, Store
@@ -33,15 +36,24 @@ def main():
     feature_list: list[Feature] = []
 
     stores = starbucks.get_stores()
-    for store in stores[:1]:  # TODO: remove slicing.
+    for store in stores:
         branch_code = store.branch_code
         assert branch_code, "Invalid branch code."
+        print(f"Scraping data from {store.store_name}.")
 
-        items = starbucks.get_menu_items(branch_code)
+        try:
+            items = starbucks.get_menu_items(branch_code)
 
-        latte = find_latte(items)
-        feature = build_geojson_feature(latte, store)
-        feature_list.append(feature)
+            latte = find_latte(items)
+            feature = build_geojson_feature(latte, store)
+            feature_list.append(feature)
+
+            time.sleep(random.randint(1, 5))
+
+        except Exception as e:
+            print(
+                f"error={e}, branch_code={store.branch_code}, store_code={store.store_code}")
+            continue
 
     feature_collection = FeatureCollection(feature_list)
     with open("data/sbux.json", "w") as f:

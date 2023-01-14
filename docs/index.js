@@ -31,7 +31,7 @@ fetch("data.geojson")
         layer.bindPopup(
           `<span style='font-size:20px;'>📍 ${
             feature.properties.Store
-          }</span> <br> <span style='font-size:20px;'>🏷️ ${
+          }</span> <br> <span style='font-size:20px;'>☕ ${
             feature.properties.Coffee
           } $${parseFloat(feature.properties.Price / 100).toFixed(2)}</span>`
         );

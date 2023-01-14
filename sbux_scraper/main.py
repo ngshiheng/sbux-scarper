@@ -1,27 +1,24 @@
 import random
 import time
+from typing import List
 
 from geojson import Feature, FeatureCollection, Point, dumps
 from sbux import Starbucks
 from sbux.models import Item, Store
 
 
-def find_latte(items: list[Item]) -> Item:  # TODO: optimize this.
-    for item in items:
-        if item.name == "Caffè Latte":
-            return item
-
-    raise ValueError("Caffè Latte not found!")
+def find_latte(items: List[Item]) -> Item:
+    try:
+        return next(item for item in items if item.name == "Caffè Latte")
+    except StopIteration:
+        raise ValueError("Caffè Latte not found!")
 
 
 def build_geojson_feature(item: Item, store: Store) -> Feature:
     assert store.longitude and store.latitude, "Invalid coordinates."
 
-    longitude = float(store.longitude)
-    latitude = float(store.latitude)
-
     return Feature(
-        geometry=Point((longitude, latitude)),
+        geometry=Point((float(store.longitude), float(store.latitude))),
         properties={
             "Coffee": item.name,
             "Price": item.base_price,
@@ -33,27 +30,21 @@ def build_geojson_feature(item: Item, store: Store) -> Feature:
 def main():
     starbucks = Starbucks()
 
-    feature_list: list[Feature] = []
+    feature_list = []
 
-    stores = starbucks.get_stores()
-    for store in stores:
-        branch_code = store.branch_code
-        assert branch_code, "Invalid branch code."
+    for store in starbucks.get_stores():
+        assert store.branch_code, "Invalid branch code."
         print(f"Scraping data from {store.store_name}.")
 
         try:
-            items = starbucks.get_menu_items(branch_code)
-
-            latte = find_latte(items)
-            feature = build_geojson_feature(latte, store)
-            feature_list.append(feature)
-
+            items = starbucks.get_menu_items(store.branch_code)
+            feature_list.append(build_geojson_feature(find_latte(items), store))
             time.sleep(random.randint(1, 5))
 
+        except ValueError:
+            print(f"Caffè Latte not found for store {store.store_code}")
         except Exception as e:
-            print(
-                f"error={e}, branch_code={store.branch_code}, store_code={store.store_code}")
-            continue
+            print(f"Error occurred for store {store.store_code}: {e}")
 
     feature_collection = FeatureCollection(feature_list)
     with open("docs/data.geojson", "w") as f:

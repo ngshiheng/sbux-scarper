@@ -25,3 +25,7 @@ serve:	## serve page using simple HTTP server.
 	@if [ -z $(PYTHON) ]; then echo "Python3 could not be found. See https://www.python.org/downloads/"; exit 2; fi
 	@$(PYTHON) -m http.server -d docs
 	@echo "Serving site at http://localhost:8000/"
+
+.PHONY: scrape
+scrape:	## scrape item prices from sbux.
+	@$(POETRY) run python3 sbux_scraper/main.py

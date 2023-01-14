@@ -19,12 +19,32 @@ fetch("data.geojson")
   .then((res) => res.json())
   .then((data) => {
     L.geoJson(data, {
+      pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, {
+          color: getColor(feature.properties.Price),
+          radius: 5,
+          fillColor: getColor(feature.properties.Price),
+          fillOpacity: 1,
+        });
+      },
       onEachFeature: function (feature, layer) {
         layer.bindPopup(
-          `<b>📍 ${feature.properties.Store} <br> 🏷️ ${
+          `📍 ${feature.properties.Store} <br> 🏷️ ${
             feature.properties.Coffee
-          } $${parseFloat(feature.properties.Price / 100).toFixed(2)}</b>`
+          } $${parseFloat(feature.properties.Price / 100).toFixed(2)}`
         );
       },
     }).addTo(map);
   });
+
+function getColor(d) {
+  return d > 700
+    ? "red"
+    : d > 600
+    ? "grey"
+    : d > 500
+    ? "green"
+    : d > 100
+    ? "black"
+    : "grey";
+}

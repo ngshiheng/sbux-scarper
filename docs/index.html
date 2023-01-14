@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Starbucks Singapore Cafe Lattes</title>
+    <title>Latte-Locate</title>
     <link rel="icon" type="image/x-icon" href="favicon.png" />
     <link
       rel="stylesheet"
@@ -18,10 +18,58 @@
       href="https://davidpaulsson.github.io/no-class/css/no-class.min.css"
       type="text/css"
     />
+    <style>
+      /* Add CSS styles here */
+      body {
+        padding: 20px;
+      }
+      h1 {
+        text-align: center;
+        margin-bottom: 40px;
+      }
+      #mapdiv {
+        margin: 0 auto;
+        width: 80%;
+        height: 800px;
+        border: 1px solid gray;
+      }
+      .container {
+        width: 80%;
+        margin: 0 auto;
+      }
+      .row {
+        display: flex;
+        align-items: center;
+      }
+
+      h2 {
+        margin-bottom: 20px;
+      }
+      footer {
+        text-align: center;
+        margin-top: 40px;
+      }
+    </style>
   </head>
   <body>
     <script src="index.js" type="module"></script>
-    <h1>Starbucks Singapore Cafe Lattes</h1>
-    <div id="mapdiv" style="height: 800px"></div>
+    <h1>Latte-Locate</h1>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <p>Hmm, how much is my Starbucks Latte?</p>
+          <p>
+            Visualizing the price of a Caffe Latte (tall) at Starbucks locations
+            across Singapore.
+          </p>
+          <p>
+            The data is collected and displayed on a map using the
+            <a href="https://leafletjs.com/">Leaflet</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div id="mapdiv"></div>
+    <footer>Made by <a href="https://jerrynsh.com/">Jerry Ng</a>.</footer>
   </body>
 </html>

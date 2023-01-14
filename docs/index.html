@@ -1,0 +1,69 @@
+<html>
+  <head>
+    <title>Starbucks Singapore</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+      integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+      integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+      crossorigin=""
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://davidpaulsson.github.io/no-class/css/no-class.min.css"
+      type="text/css"
+    />
+  </head>
+  <body>
+    <h1>Starbucks Cafe Lattes</h1>
+    <div id="mapdiv" style="height: 800px"></div>
+    <script>
+      const center = L.bounds(
+        [1.56073, 104.11475],
+        [1.16, 103.502]
+      ).getCenter();
+      const map = L.map("mapdiv").setView([center.x, center.y], 12.5);
+      const basemap = L.tileLayer(
+        "https://maps-{s}.onemap.sg/v3/Default/{z}/{x}/{y}.png",
+        {
+          detectRetina: true,
+          maxZoom: 18,
+          minZoom: 11,
+        }
+      );
+
+      map.setMaxBounds([
+        [1.56073, 104.1147],
+        [1.16, 103.502],
+      ]);
+      basemap.addTo(map);
+
+      fetch("data.geojson")
+        .then((res) => res.json())
+        .then((data) => {
+          L.geoJson(data).addTo(map);
+        });
+
+      function getLocation() {
+        if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(showPosition);
+        }
+      }
+
+      function showPosition(position) {
+        marker = new L.Marker(
+          [position.coords.latitude, position.coords.longitude],
+          { bounceOnAdd: false }
+        ).addTo(map);
+        var popup = L.popup()
+          .setLatLng([position.coords.latitude, position.coords.longitude])
+          .setContent("You are here!")
+          .openOn(map);
+      }
+    </script>
+  </body>
+</html>

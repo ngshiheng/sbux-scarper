@@ -7,9 +7,9 @@ readme = "README.md"
 version = "0.1.0"
 
 [tool.poetry.dependencies]
-python = "^3.10"
-sbux = "^0.3.0"
 geojson = "^2.5.0"
+python = "^3.10"
+sbux = "^1.0.0"
 
 [tool.poetry.group.dev.dependencies]
 autopep8 = "^2.0.1"

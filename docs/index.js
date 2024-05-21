@@ -81,7 +81,7 @@ map.on({
 function getColor(d) {
   return d > 700
     ? "red"
-    : d > 600
+    : d > 650
     ? "blue"
     : d > 500
     ? "green"
